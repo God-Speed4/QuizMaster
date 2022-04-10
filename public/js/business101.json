@@ -1,0 +1,51 @@
+{
+    "quizName": "bus101",
+    "quizQuestions": {
+        "q1": {
+            "question": "What type of behavior would a leader with low LPC, task oriented, and situation unfavorable typically display?",
+            "options": ["Power inherent", "Give strict directions","Discipline employees with a formal hearing","Assign schedules"],
+            "answer": "Give strict directions"
+        },
+        "q2": {
+            "question": "The three dimensions which affect situation favorableness are task structure, leader/member relations, and positioning power. If these three dimensions are high, situation favorableness occurs. Which of the following leadership theories embodies these three elements?",
+            "options": [
+                "Fiedler's Contingency Theory",
+                "Leader-Member Exchange Theory",
+                "Situational Control Theory",
+                "Path-Goal Theory"
+            ],
+            "answer": "Fiedler's Contingency Theory"
+        },
+        "q3": {
+            "question": "Which of these describes factors outside of the control of the company that have the potential to influence an organization's current operations, growth, and long-term sustainability?",
+            "options": ["Internal environment", "Organizational Change", "Financial struggles", "External environment"],
+            "answer": "External environment"
+        },
+        "q4": {
+            "question": "In order to make his company more efficient, Jonathan decided to merge two departments which have been doing similar work. Jonathan must, however, ensure that he make all the necessary people-oriented changes in order to get his employees from both teams to work effectively together. What would you recommend that Jonathan does to help create stability with his employees from the two departments he plans to merge?",
+            "options": ["He is the boss so he should do what he believes should work in the company's best interest", "He should talk to his sister company about bringing his workers on", "He should move the current employees to other departments and hire a new set of employees", "He should offer to organize some team building meetings"],
+            "answer": "He should offer to organize some team building meetings"
+        },
+        "q5": {
+            "question": "What does the organizing step of managerial function comprise of?",
+            "options": [
+                "Encouraging employees towards a higher level of productivity",
+                "Independence",
+                "Delegating work",
+				"Third step of the managerial function"
+            ],
+            "answer": "Delegating work"
+        },
+        "q6": {
+            "question": "What do the functions of planning, organizing, leading, and controlling represent?",
+            "options": ["A manager's primary meeting agenda", "A manager's guideline for new hires","A manager's primary responsibilities","All of the answers are correct"],
+            "answer": "A manager's primary responsibilities"
+        },
+        "q7": {
+            "question": "Indirect compensation includes all of these except _____",
+            "options": ["company paid health insurance.", "the 401K.", "competitive salaries.", "paid time off."],
+            "answer": "competitive salaries."
+        }
+
+    }
+}
